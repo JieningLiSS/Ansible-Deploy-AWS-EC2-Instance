@@ -1,4 +1,4 @@
-# Ansible-Deploy-AWS-EC2-Instance
+# Deploy-AWS-EC2-Instance-with-Ansible
 
 Launch aws ec2 instance using Ansible Playbook
 
